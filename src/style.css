@@ -153,10 +153,39 @@ hr {
 }
 
 .events-recap {
-  background-color: #648bb3;
+  background-color: #3e90b9;
 }
 .new-volunteers li {
   list-style: none;
+}
+.upcoming-events {
+  background-color: #4a67a4;
+}
+.tour {
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 400px;
+}
+.ribbon {
+  padding: 15px;
+  height: 50px;
+  background: #ecebef64;
+
+  clip-path: polygon(100% 0, 95% 50%, 100% 100%, 0% 100%, 5% 50%, 0% 0%);
+
+  font-style: italic;
+  font-size: 24px;
+  font-family: dancing script;
+  color: #fff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 300px;
+
+  margin: 25px auto;
 }
 .top-calendar {
   width: 68px;
@@ -239,6 +268,7 @@ hr {
 }
 
 .events-recap a,
+.upcoming-events a,
 .research a,
 .paragraph a,
 .emailus a,
