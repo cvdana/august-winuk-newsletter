@@ -155,7 +155,9 @@ hr {
 .events-recap {
   background-color: #648bb3;
 }
-
+.new-volunteers li {
+  list-style: none;
+}
 .top-calendar {
   width: 68px;
   height: 20px;
