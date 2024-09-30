@@ -187,19 +187,7 @@ hr {
 
   margin: 25px auto;
 }
-.top-calendar {
-  width: 68px;
-  height: 20px;
-  border: 2px solid #fff;
-  background-color: #fff;
-  margin-bottom: 4px;
-}
-.calendar {
-  border: 2px solid #fff;
-  width: 70px;
-  height: 60px;
-  text-align: center;
-}
+
 .socials img {
   height: 300px;
   width: 300px;
@@ -211,6 +199,10 @@ hr {
 }
 .socials-two {
   background-color: #7879ae;
+}
+.socials-two img {
+  display: block;
+  margin: 0 auto;
 }
 .awareness {
   background-color: #5983ad;
