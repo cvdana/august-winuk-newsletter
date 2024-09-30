@@ -207,12 +207,20 @@ hr {
 .awareness {
   background-color: #5983ad;
 }
-
-.adtl {
-  width: 260px;
-  height: 280px;
-  display: block;
-  margin: auto;
+.section-one {
+  background-color: #db86b8;
+}
+.section-two {
+  background-color: #c29cc0;
+}
+.section-three-first {
+  background-color: #efc4dd;
+}
+.section-three-second {
+  background-color: #7cb4d2;
+}
+.section-four {
+  background-color: #db86b8;
 }
 .blog p {
   text-align: center;
