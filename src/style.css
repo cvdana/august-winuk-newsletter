@@ -103,7 +103,6 @@ hr {
 .citation {
   color: var(--text-colour);
   text-align: center;
-  font-size: 18px;
 }
 .cite {
   font-style: italic;
